@@ -23,9 +23,10 @@ $ java -jar assignment2.jar fax
 ```bash
 $ java -jar assignment2.jar domain
 ```
+--------------------
 
-##### Some of the source files for project have also been added to repo.
+#### Some of the source files for project have also been added to repo.
 ###### Summary of files:
-####### Company.java - this class is java object for json objects.
-####### ReadJson.java - Read and parson json and perform assigned tasks.
-####### Person.java - class for the objects in ```keyPeole```
+###### Company.java - this class is java object for json objects.
+###### ReadJson.java - Read and parson json and perform assigned tasks.
+###### Person.java - class for the objects in ```keyPeole```
